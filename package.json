@@ -1,0 +1,12 @@
+{
+  "name": "postcodeAPI",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "devDependencies": {
+    "iconv-lite": "^0.6.3"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
